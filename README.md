@@ -42,4 +42,6 @@ The dataset consist of the information about all the matches played between each
 
 ### Analysis Result
 - Performance of each team in 11 IPLs (2008-18) and also found the best player for each team.
-- 
+- Analysis of each overs on the basis of runs scored by each team in powerplay, middle overs and death overs.
+- Analysis of each overs on tha basis of wickets taken by bowlers, extra runs conceeded by the bowlers.
+- Analysis of leading run scorers and leading wicket takes
