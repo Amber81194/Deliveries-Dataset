@@ -1,5 +1,5 @@
 # Deliveries-Dataset
-![image.jpg](Images/Image.jpg)
+![image.jpg](Images/image.jpg)
 
 ## INTRODUCTION
 EDA of Deliveries Dataset. It contains information about each ball being bowled in 11 years of IPL. It comprises of 3,459,750 observations.
