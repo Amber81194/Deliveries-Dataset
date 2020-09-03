@@ -35,6 +35,10 @@ The dataset consist of the information about all the matches played between each
 | --- | --- |
 | ipl_data.head | ![image.png](Images/head1.png) |
 | ipl_data.head | ![image.png](Images/head2.png) |
+- This data is for 696 matches, 696 distinct values of match_id column
+- 14 teams, total over = 20, max ball in over is 9, 488 batsman faces a ball, 
+- 378 bowler bowls, there is a super over matches
+- 465 players dismissed out of 488, there are 10 different ways 
 
 ### Analysis Result
 - Performance of each team in 11 IPLs (2008-18) and also found the best player for each team.
